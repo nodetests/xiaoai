@@ -112,6 +112,7 @@ import myUpload from 'vue-image-crop-upload'
 .box{
   width: 90%;
   height: 700px;
+  margin-left: 5%;
    background: #fff;
    .header{ 
      width: 80%;
